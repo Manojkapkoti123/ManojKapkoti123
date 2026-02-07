@@ -1,4 +1,3 @@
-## Hi there 👋
 
 # Hi 👋, Manoj Kapkoti
 
@@ -31,3 +30,7 @@
 - 📊 Data Analysis Project
 - 📈 Dashboard Project
 - 🤖 Machine Learning Project
+
+
+
+⭐️ Feel free to check out my repositories and contribute! 😃
